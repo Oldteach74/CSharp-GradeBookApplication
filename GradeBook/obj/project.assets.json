@@ -3628,11 +3628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rrahi\\Source\\Repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "D:\\MEDIA\\OneDrive\\OneDrive\\Documents\\GitHub\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "C:\\Users\\rrahi\\Source\\Repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj",
+      "projectPath": "D:\\MEDIA\\OneDrive\\OneDrive\\Documents\\GitHub\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\rrahi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rrahi\\Source\\Repos\\CSharp-GradeBookApplication\\GradeBook\\obj\\",
+      "outputPath": "D:\\MEDIA\\OneDrive\\OneDrive\\Documents\\GitHub\\CSharp-GradeBookApplication\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",

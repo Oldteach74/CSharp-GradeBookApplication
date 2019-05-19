@@ -9,3 +9,14 @@ C:\Users\rrahi\Source\Repos\CSharp-GradeBookApplication\GradeBook\obj\Debug\netc
 C:\Users\rrahi\Source\Repos\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
 C:\Users\rrahi\Source\Repos\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
 C:\Users\rrahi\Source\Repos\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+D:\MEDIA\OneDrive\OneDrive\Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb

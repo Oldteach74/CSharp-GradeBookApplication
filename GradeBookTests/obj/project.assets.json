@@ -5825,11 +5825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBookTests\\GradeBookTests.csproj",
+      "projectUniqueName": "D:\\MEDIA\\OneDrive\\OneDrive\\Documents\\GitHub\\CSharp-GradeBookApplication\\GradeBookTests\\GradeBookTests.csproj",
       "projectName": "GradeBookTests",
-      "projectPath": "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBookTests\\GradeBookTests.csproj",
+      "projectPath": "D:\\MEDIA\\OneDrive\\OneDrive\\Documents\\GitHub\\CSharp-GradeBookApplication\\GradeBookTests\\GradeBookTests.csproj",
       "packagesPath": "C:\\Users\\rrahi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBookTests\\obj\\",
+      "outputPath": "D:\\MEDIA\\OneDrive\\OneDrive\\Documents\\GitHub\\CSharp-GradeBookApplication\\GradeBookTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -5850,8 +5850,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj"
+            "D:\\MEDIA\\OneDrive\\OneDrive\\Documents\\GitHub\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "D:\\MEDIA\\OneDrive\\OneDrive\\Documents\\GitHub\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj"
             }
           }
         }
