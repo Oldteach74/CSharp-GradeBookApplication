@@ -40,12 +40,12 @@ namespace GradeBook.UserInterfaces
                 return;
             }
             var name = parts[1];
-            var type = parts[2];
+            var type = parts[2].ToLower();
 
             BaseGradeBook gradeBook;
             if (type == "standard")
                 gradeBook = new StandardGradeBook(name);
-            if (type == "ranked")
+            else if (type == "ranked")
                 gradeBook = new RankedGradeBook(name);
             else
             {
