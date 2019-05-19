@@ -15,6 +15,7 @@ namespace GradeBookTests
         ///     All tests related to the "Create CalculateStatistics Override" Task.
         /// </summary>
         [Fact(DisplayName = "Create CalculateStatistics Override @create-override-calculatestatistics")]
+
         public void OverrideCalculateStatisticsTest()
         {
             //Setup Test
