@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rrahi\\Source\\Repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rrahi\\Source\\Repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rrahi\\Source\\Repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\rrahi\\Source\\Repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\rrahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rrahi\\Source\\Repos\\CSharp-GradeBookApplication\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\rrahi\\source\\repos\\CSharp-GradeBookApplication\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
